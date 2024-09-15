@@ -7,16 +7,16 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254102074064']
-global.ownMain = '254102074064'
-global.NamaOwner = '𝐃𝐑𝐄𝐗 ⧼𝕲⧽°•°•°•°•°•°•°ᵍʳᵉʸ' //gausah diganti
+global.owner = ['254712703241']
+global.ownMain = '254712703241'
+global.NamaOwner = 'Malibu' //gausah diganti
 global.sessionName = 'session'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = '𝐃𝐑𝐄𝐗 ⧼𝕲⧽ 𝐌𝐎𝐃𝐒' //ganti aj klo mau
-global.author = 'ᦔ𝘳ꫀ᥊ ⧼𝕲⧽°•°•°𝓰𝓻𝓮𝔂 【𓍯】' //ganti aj klo mau
-global.packname = '𝐃𝐑𝐄𝐗 ⧼𝕲⧽ 𝐌𝐎𝐃𝐒' //ganti aj klo mau
-global.url1 = 'https://tinyurl.com/2yafw83v' //gausah diganti
-global.url2 = 'https://whatsapp.com/channel/0029Vaf83Dc0gcfHXTYTU51L' //gausah diganti
+global.namabot = 'Malibu ⧼𝕲⧽ 𝐌𝐎𝐃𝐒' //ganti aj klo mau
+global.author = 'Malibu ⧼𝕲⧽°•°•°𝓰𝓻𝓮𝔂 【𓍯】' //ganti aj klo mau
+global.packname = 'Malibu ⧼𝕲⧽ 𝐌𝐎𝐃𝐒' //ganti aj klo mau
+global.url1 = 't.me/theetechpalace' //gausah diganti
+global.url2 = 'https://chat.whatsapp.com/H3T9SI97DnOIgXc4VkuXSz' //gausah diganti
 global.linkgc = 'https://tinyurl.com/2637xxrt'
 global.delayjpm = 1500
 
