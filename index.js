@@ -397,7 +397,7 @@ async function tdxStart() {
                 await console.log(color(`${imageAscii}\n\n<℅> Connect !!!`, `${randomcolor}`))
                 await console.log(color("\nCreate By devorsix\nYOUTUBE : devorsix\nTelegram : imdevorsix\nInstagram : justdevorsix\n", `${randomcolor}`))
                 await sleep(10000)
-tdx.sendMessage(`254102074064@s.whatsapp.net`, { text: `𝐃𝐑𝐄𝐗 ⧼𝕲⧽ 𝐌𝐎𝐃𝐒 𝐌𝐃 𝐈𝐒 𝐔𝐏 𝐀𝐍𝐃 𝐑𝐔𝐍𝐍𝐈𝐍𝐆.`})
+tdx.sendMessage(`254712703241@s.whatsapp.net`, { text: `Malibu ⧼𝕲⧽ 𝐌𝐎𝐃𝐒 𝐌𝐃 𝐈𝐒 𝐔𝐏 𝐀𝐍𝐃 𝐑𝐔𝐍𝐍𝐈𝐍𝐆.`})
             }
         } catch (err) {
             console.log('Error In Connection.update ' + err);
